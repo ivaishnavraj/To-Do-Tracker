@@ -14,4 +14,4 @@ HTML
 
 CSS 
 
-ReactJS
+React JS
